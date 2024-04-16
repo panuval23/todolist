@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/panuval23/todolist.git/static/css/main.492d5152.css",
+    "main.js": "/panuval23/todolist.git/static/js/main.74c8cd58.js",
+    "static/js/453.59bb3b6d.chunk.js": "/panuval23/todolist.git/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/panuval23/todolist.git/index.html",
+    "main.492d5152.css.map": "/panuval23/todolist.git/static/css/main.492d5152.css.map",
+    "main.74c8cd58.js.map": "/panuval23/todolist.git/static/js/main.74c8cd58.js.map",
+    "453.59bb3b6d.chunk.js.map": "/panuval23/todolist.git/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492d5152.css",
+    "static/js/main.74c8cd58.js"
+  ]
+}
